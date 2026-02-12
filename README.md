@@ -1,20 +1,40 @@
-# Hi 👋 I'm Hackey
+# Hi 👋 I'm Ishant Kshirsagar
 
-🎓 B.Tech AI & ML Student  
-💻 Learning Java, Python & DSA  
-🚀 Interested in Application Development & Machine Learning  
+🎓 B.Tech Student (AI & Machine Learning)  
+🤖 Currently Learning Artificial Intelligence  
+💻 Java | Python | DSA | Web Development  
+🚀 Passionate About Coding & Application Development  
 
-## 🛠 Skills
-- Java
-- Python
-- HTML, CSS
-- C++
-- DBMS
+---
 
-## 📌 Currently Working On
-- Data Structures & Algorithms
-- Mini Projects
-- Improving Problem Solving Skills
+## 🚀 About Me
+- 🌱 Currently improving Data Structures & Algorithms
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 💡 Love building real-world projects
+- 📚 Always learning something new
 
-## 📫 Connect with Me
-- LinkedIn: (Add your link)
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Java, Python, C++
+- 🌐 Web: HTML, CSS, JavaScript
+- 🗄️ Database: MySQL
+- 📊 Tools: Git, GitHub
+
+---
+
+## 📈 Current Goals
+- Crack Product-Based Company 💼
+- Master DSA
+- Build AI/ML Projects
+- Improve Problem Solving Skills
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (Add your link here)
+- Email: (Add your email here)
+
+---
+
+⭐ From [ishantkshirsagar14-alt](https://github.com/ishantkshirsagar14-alt)
