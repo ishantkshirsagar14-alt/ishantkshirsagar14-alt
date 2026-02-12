@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Hackey
 
-<!--
-**ishantkshirsagar14-alt/ishantkshirsagar14-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & ML Student  
+💻 Learning Java, Python & DSA  
+🚀 Interested in Application Development & Machine Learning  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Java
+- Python
+- HTML, CSS
+- C++
+- DBMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Currently Working On
+- Data Structures & Algorithms
+- Mini Projects
+- Improving Problem Solving Skills
+
+## 📫 Connect with Me
+- LinkedIn: (Add your link)
