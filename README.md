@@ -32,8 +32,8 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (Add your link here)
-- Email: (Add your email here)
+- LinkedIn: (www.linkedin.com/in/ishant-kshirsagar-790b872a8)
+- Email: (ishantk0606@gmail.com)
 
 ---
 
